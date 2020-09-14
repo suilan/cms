@@ -1,0 +1,12 @@
+{
+    "name": "ielop/ieptbma",
+    "description": "Instituto de Protestos do Maranhão",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ielop - Inspiration and Development",
+            "email": "adm@ielop.com"
+        }
+    ],
+    "require": {}
+}

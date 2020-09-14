@@ -1,0 +1,7 @@
+/* Colors 005088 - Dark blue | 007DC5 - Light Blue*/
+body{background-image: url('../img/404bg.jpeg'); background-size: cover;background-repeat:no-repeat;}
+h1{font-family: Gotham-Bold;font-size: 220px;color:white;float:left;margin: 0;padding:0;margin-right:20px;}
+.container{width: 700px;margin: 15% auto;}
+.container .icon-logo{width:84%; margin: 20px 0; }
+h2{text-orientation: vertical;font-family: Gotham-Book; font-size:30px;color:#003c66;}
+.aside{float: left;width: 30%;padding-top:5%;}
